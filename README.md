@@ -1,18 +1,21 @@
 
-## 👋 Hi there, I'm Durgesh Kumar Gupta!
+👋 Hi there, I'm Durgesh Kumar Gupta
 
-Welcome to my GitHub profile! I'm an enthusiastic Computer Science student passionate about problem-solving, development, and continuous learning.
-
+Welcome to my GitHub profile! 🚀 I’m a passionate Computer Science student who enjoys solving problems, building impactful projects, and constantly exploring new technologies.
 ---
 
 ### 🚀 About Me
-- 🎓 B.Tech CSE @ GLA University
-- 🔭 I’m currently working on: Full Stack Web Development and DSA
-- 🌱 I’m currently learning: Java, Data Structures & Algorithms, Node.js
-- 💡 I love building: Projects that solve real-world problems
-- 📘 I enjoy: Open Source, Competitive Programming, and Learning New Tech
-- 🎯 Goal: To become a Software Engineer @Google
+<h4>🎓 B.Tech CSE @ GLA University (3rd Year)
 
+💻 Current Focus: Full Stack Web Development (MERN) & Data Structures & Algorithms
+
+🌱 Learning: Java, DSA, Node.js, and Machine Learning fundamentals
+
+💡 I love building: Scalable applications & real-world problem-solving solutions
+
+📘 Interests: Open Source, Competitive Programming, Hackathons, and AI-powered projects
+
+🎯 Goal: To become a Software Engineer at Google and contribute to impactful innovations
 
 
 ## 🌐 Socials:
